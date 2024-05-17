@@ -1,1 +1,1 @@
-
+Outline/roadmap to kernel dev. 
