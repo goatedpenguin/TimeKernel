@@ -2,6 +2,7 @@ Outline/roadmap to kernel dev.
 
 goals: to build a fast, secure, easy to develop on for others, well supported devices with drivers, 2038 proof meaning no 32bit development, open source(no shit), make it clean like apple does with their stuff, make the kernel do things that simply lack in the apple kernel, linux kernel, windows kernel etc. FOLLOW THE UNIX PHILOSOPHY: DO ONE THING AND DO IT RIGHT NOT LIKE SYSTEMD FOR AN EXAMPLE. Have netowrking and follow the posix standards.
 
+We should also think on implementing AI in the kenrel(later on ofc) which can heavily benefit reosurce managements, security, proactive maintenace/failure detection, dynamic stuff, self optimization accoring to the needs of the system and user. 
 
 Learn C
 Learn How Kernel works
@@ -17,8 +18,9 @@ Try as hard as possible not to have code that has too many indentations that jus
 we need to implement the networking standards
 have subsystems for a bunch of stuff like audio, hid devices, video, graphics subsystems, and a lot more...
 
+MAKE SURE WHEN MAKING CODE THAT YOU THINK AHEAD IN THE FUTURE OF HOW IT CAN BE CHANGED AND MORE STUFF LIKE MAKING LIFE EASIER SINCE WE WILL BE MAKING LOTS OF CHANGES LIKE TRYING TO ADD AI
 
-
+NOTE: ADDING AI TO THE KERNEL IS A STEP FORWARD HOWEVER THIS CAN POSE MAJOR THREATS TO A SYSTEM SO WE NEED TO PROCEED WITH CAUTION ETC...
 
 
 Resource links to study on:
