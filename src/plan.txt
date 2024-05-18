@@ -1,1 +1,41 @@
 Outline/roadmap to kernel dev. 
+
+goals: to build a fast, secure, easy to develop on for others, well supported devices with drivers, 2038 proof meaning no 32bit development, open source(no shit), make it clean like apple does with their stuff, make the kernel do things that simply lack in the apple kernel, linux kernel, windows kernel etc. FOLLOW THE UNIX PHILOSOPHY: DO ONE THING AND DO IT RIGHT NOT LIKE SYSTEMD FOR AN EXAMPLE. Have netowrking and follow the posix standards.
+
+
+Learn C
+Learn How Kernel works
+Read Linux programming book links are down below
+Learn OS security 
+Secure code is a must
+Where chatgpt is used, it must be cited for credits and double checks etc.
+Make sure to always make a pull request and a discussion or inform us in the group etc. on discord(to be made)
+code must be optimized as much as possible. 
+Code must be commented when needed and sufficently
+Tabs HAVE TO BE 4 SPACES DON'T BE A PHYCOPATH AND DO 2 SPACE INDENTS
+Try as hard as possible not to have code that has too many indentations that just means its probably badly written code... this does not mean that you have to reduces the number of indents ie don't try to make the program asthetically pleasing but efficent. 
+we need to implement the networking standards
+have subsystems for a bunch of stuff like audio, hid devices, video, graphics subsystems, and a lot more...
+
+
+
+
+
+Resource links to study on:
+
+https://dokumen.pub/introduction-to-operating-system-design-and-implementation-the-osp-2-approach-9781846288425-9781846288432-1846288428.html
+https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/download/
+https://colorcomputerarchive.com/repo/Documents/Books/The%20C%20Programming%20Language%20(Kernighan%20Ritchie).pdf -> MUST READ
+http://www.staroceans.org/kernel-and-driver/Linux%20System%20Programming--Talking%20Directly%20to%20Kernel%20%26%20C%20Library.pdf -> mMUST READ
+https://csd.cmu.edu/15410605-operating-system-design-and-implementation
+https://wiki.osdev.org/Main_Page -> TAKE A LOOK AROUND IT IS A WEALTH OF INFORMATION
+https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/
+
+
+THIS DOCUMENT WILL BE UPDATED AS NEEDED...
+
+
+https://www.kernel.org/doc/html/latest/
+https://os-book.com/OS10/index.html -> MUST READ
+https://pdos.csail.mit.edu/6.1810/2023/index.html
+https://pdos.csail.mit.edu/6.1810/2023/xv6/book-riscv-rev3.pdf
