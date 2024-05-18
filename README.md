@@ -1,2 +1,2 @@
 # TimeKernel
-My kernel that I am trying to make. 
+Our kernel that we are trying to make. 
